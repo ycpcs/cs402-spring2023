@@ -42,7 +42,7 @@ Course Structure and Expectations
 
 For this semester (Spring 2023), this portion of CS 402 will concentrate exclusively on the further development of the projects from CS400.  This will be in the form of multiple teams as shown above.
 
-Each student should maintain a *brief** weekly journal describing their work along with any reference materials to document progress throughout the semester. Each team will give an informal weekly status update on the days specified above. Additionally, there will be three Milestones throughout the semester.
+Each student should maintain a *brief* weekly journal describing their work along with any reference materials to document progress throughout the semester. Each team will give an informal weekly status update on the days specified above. Additionally, there will be three Milestones throughout the semester.
 
 Finally, each group will be required to create a poster and/or demo for the Engineering and CS Capstone Expo which will occur towards the end of the semester.
 
