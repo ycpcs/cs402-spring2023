@@ -8,6 +8,12 @@ title: Home page
 This is the website for CS 402, Capstone Design II, Spring 2023 at York College.
 All information about the course will be posted here.
 
+* Privilege Walk: Mondays
+
+* Radio Telescope: Wednesdays (2pm)
+
+* YCPHacks: Fridays (KEC123)
+
 ## Links
 
 * [Syllabus](syllabus.html)
