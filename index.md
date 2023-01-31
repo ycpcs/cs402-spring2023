@@ -15,7 +15,7 @@ All information about the course will be posted here.
 
 ## News
 * **Feb 3** - Initial project proposals due
-* **Feb 27-Mar3** - *Milestone 1 Presentations*
+* **Feb 27-Mar 3** - *Milestone 1 Presentations*
 * **Mar 27-31** - *Milestone 2 Presentations*
 * **Apr 27** - *Capstone Expo*
 * **May 1-5** - *Milestone 3 Presentations*
