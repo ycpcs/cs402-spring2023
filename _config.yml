@@ -1,0 +1,4 @@
+coursename: "CS 402"
+baseurl: "/cs402-spring2023"
+markdown: kramdown
+highlighter: rouge
